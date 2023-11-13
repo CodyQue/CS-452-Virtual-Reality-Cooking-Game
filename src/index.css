@@ -1,6 +1,7 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
     margin: 20px;
+    background-image: url('./background.png');
   }
   
   ol, ul {
@@ -40,12 +41,12 @@ body {
     background: #ddd;
   }
   
-  .game {
+  .Game {
     display: flex;
     flex-direction: row;
   }
   
-  .game-info {
+  .Game-info {
     margin-left: 20px;
   }
   
