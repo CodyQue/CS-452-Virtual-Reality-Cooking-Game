@@ -7,7 +7,7 @@ import './index.css';
       return (
         <div className="title">
           <h1>
-            Hello World
+            Test Website For CS 452 Project
           </h1>
           </div>
       );
