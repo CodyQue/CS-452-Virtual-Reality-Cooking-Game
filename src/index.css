@@ -1,7 +1,8 @@
 body {
     font: 14px "Century Gothic", Futura, sans-serif;
     margin: 20px;
-    background-image: url('./background.png');
+    background: url('./background.png') no-repeat center center fixed;
+    background-size: cover;
   }
   
   ol, ul {
@@ -49,4 +50,6 @@ body {
   .Game-info {
     margin-left: 20px;
   }
+
+  
   

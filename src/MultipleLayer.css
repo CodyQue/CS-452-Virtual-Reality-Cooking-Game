@@ -1,0 +1,20 @@
+/* MultipleLayer.css */
+
+.backgroundDiv {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+    background-size: cover;
+}
+
+#background1 {
+    background-image: url('./background.png');
+    background-position: center;
+}
+
+#background2 {
+    background-image: url('./foodlayer.png');
+    background-position: bottom;
+    margin-top: 38.5%;
+    height: 25vh;
+}
