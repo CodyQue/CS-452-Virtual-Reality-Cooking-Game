@@ -8,7 +8,7 @@ function Video() {
           </div>
           <style></style>
           <div className="col-10" style={{marginTop: '4%', width:"100%", height:"100%"}}>
-            <h1 className="responsive-heading" style = {{marginTop: '1%', color: 'white'}}>
+            <h1 className="responsive-heading" style = {{color: 'white'}}>
               <b>Welcome To The CS 452: VIRTUAL REALITY- Cooking Game Website!</b>
             </h1>
           <iframe 
@@ -19,8 +19,6 @@ function Video() {
           <div className="col">
           </div>
         </div>
-        <div className="row" style={{ marginTop: '60px' }}></div>
-       
       </div>
       </div>
   </div>

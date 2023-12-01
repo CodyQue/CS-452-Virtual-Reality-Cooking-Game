@@ -9,7 +9,7 @@ function Developers() {
                     <b>Meet The Developers</b>
                 </h1>
                 <h3 style = {{marginTop: "2%"}}>
-                    <b>Cody Querubin</b>
+                    <b>Cody Querubin (Developer)</b>
                 </h3>
                 <h6>
                     - Senior Computer Science At George Mason University.
@@ -18,7 +18,7 @@ function Developers() {
                     - I like to collect retro video games and consoles.
                 </h6>
                 <h3 style = {{marginTop: "2%"}}>
-                    <b>Chase Walters</b>
+                    <b>Chase Walters (Developer)</b>
                 </h3>
                 <h6>
                     - Senior Computer Science At George Mason University.
@@ -27,7 +27,7 @@ function Developers() {
                     - (INSERT FUN FACT)
                 </h6>
                 <h3 style = {{marginTop: "2%"}}>
-                    <b>Azka Saquib</b>
+                    <b>Azka Saquib (Researcher / Planner)</b>
                 </h3>
                 <h6>
                     - Senior Computer Science At George Mason University.
@@ -36,7 +36,7 @@ function Developers() {
                     - Played Cooking Mama On The Nintendo DS.
                 </h6>
                 <h3 style = {{marginTop: "2%"}}>
-                    <b>Loc Nguyen</b>
+                    <b>Loc Nguyen (Developer /Asset Finder)</b>
                 </h3>
                 <h6>
                     - Junior Computer Science At George Mason University.

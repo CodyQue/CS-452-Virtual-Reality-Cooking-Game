@@ -1,3 +1,4 @@
+
 function Title() {
     return (
         <div className="container text-center" style={{ backgroundColor: '#BBDEFB' }}>
@@ -11,14 +12,22 @@ function Title() {
             <h4>
               By Cody, Chase, Azka, Loc
             </h4>
-            <div className = 'links'>
-              <a href='/'>Home </a>
-              <a href='/about'>About Our Project</a>
+            <div className = 'links' style = {{display: 'flex', justifyContent: "space-between", marginLeft: '32%', marginRight: '32%'}}>
+              <a class="btn btn-secondary" href="/" role="button">
+                Home
+              </a>
+              <a class="btn btn-secondary" href="/about" role="button">
+                About Our Project
+              </a>
+              <button type="button" class="btn btn-secondary">
+                Download
+              </button>
             </div>
           </div>
           <div className="col">
           </div>
         </div>
+        <div className="row" style={{ marginTop: '1%' }}></div>
       </div>
     )
 }
