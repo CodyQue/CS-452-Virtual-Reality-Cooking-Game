@@ -11,6 +11,10 @@ function Title() {
             <h4>
               By Cody, Chase, Azka, Loc
             </h4>
+            <div className = 'links'>
+              <a href='/'>Home </a>
+              <a href='/about'>About Our Project</a>
+            </div>
           </div>
           <div className="col">
           </div>
