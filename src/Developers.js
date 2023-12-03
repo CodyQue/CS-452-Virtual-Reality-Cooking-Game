@@ -1,6 +1,7 @@
 function Developers() {
     return (
-        <div className="container text-center" style={{ backgroundColor: '#BBDEFB', marginTop: '1%' }}>
+        <div className = 'fade-animation'>
+                    <div className="container text-center" style={{ backgroundColor: '#BBDEFB', marginTop: '1%' }}>
             <div className="row">
               <div className="col">
               </div>
@@ -50,6 +51,7 @@ function Developers() {
             </div>
             <div className="row" style={{ marginTop: '2%' }}></div>
           </div>
+        </div>
     )
 }
 
