@@ -1,3 +1,6 @@
+# CS-452-Virtual-Reality-Cooking-Game
+By Cody, Chase, Loc, Azka
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
