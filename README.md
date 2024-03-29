@@ -1,5 +1,6 @@
 # CS-452-Virtual-Reality-Cooking-Game
 By Cody, Chase, Loc, Azka
+Link To Game Download: https://gmuedu-my.sharepoint.com/:u:/g/personal/cquerub_gmu_edu/EVQNNT-RpapHghS6k64b06MBukGxrMjvNEFMnQk61XKURA?e=cBuSoc
 
 # Getting Started with Create React App
 
